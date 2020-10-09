@@ -1,18 +1,20 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmonteiro&layout=compact&langs_count=6"
-  />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelmonteiro&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues,stars"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmonteiro&layout=compact&langs_count=6"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=rafaelmonteiro&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues"
+    />
+  </a>
+</p>
 
-### Hi there 👋 <h2></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### :memo: Abstract
 
