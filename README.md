@@ -16,12 +16,12 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### :memo: Abstract
+### Abstract
 
-- 👨‍💻 I'm currently working at **THE ICONIC**.
-- 💙 Interests: music, cars, sports.
+- I'm currently working at **THE ICONIC**.
+- Interests: music, cars, sports.
 
-### :computer: Programming languages and Tools
+### Programming languages and Tools
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
@@ -117,7 +117,7 @@
   </a>
 </p>
 
-### 🌎 Find me around the web 
+### Find me around the web 
 
-- 💼 Connecting and sharing professional updates through <a href="https://www.linkedin.com/in/rafaelfmonteiro">LinkedIn</a>.
-- 🐦 Following me on <a href="https://twitter.com/rfmsts">Twitter</a>.
+- Connecting and sharing professional updates through <a href="https://www.linkedin.com/in/rafaelfmonteiro">LinkedIn</a>.
+- Following me on <a href="https://twitter.com/rfmsts">Twitter</a>.
