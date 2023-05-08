@@ -18,7 +18,6 @@
 
 ### Abstract
 
-- I'm currently working at **THE ICONIC**.
 - Interests: music, cars, sports.
 
 ### Programming languages and Tools
