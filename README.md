@@ -116,6 +116,34 @@
   </a>
 </p>
 
+### Certifications
+
+<a href="https://www.credly.com/badges/dbdf5190-d2b7-4235-857d-e71d68e5d7d0/public_url" target="_blank">
+  <img
+    src="https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+    alt="AWS Certified Solutions Architect - Associate"
+    width="120"
+    height="120"
+  />
+</a>
+<a href="https://www.credly.com/badges/763306fa-995b-4a82-a21d-d92e6e4e4d38/public_url" target="_blank">
+  <img
+    src="https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+    alt="AWS Certified Developer - Associate"
+    width="120"
+    height="120"
+  />
+</a>
+<a href="https://certification.scrumalliance.org/accounts/655117-rafael-feitosa/certifications/726786-csm" target="_blank">
+  <img
+    src="https://rafaelmonteiro.github.io/images/csm-seal.png"
+    alt="Certified ScrumMaster® (CSM®)"
+    width="120"
+    height="120"
+  />
+</a>
+
+
 ### Find me around the web 
 
 - Connecting and sharing professional updates through <a href="https://www.linkedin.com/in/rafaelfmonteiro">LinkedIn</a>.
