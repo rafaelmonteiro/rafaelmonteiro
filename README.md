@@ -134,6 +134,14 @@
     height="120"
   />
 </a>
+<a href="https://www.credly.com/badges/711ffc69-3f7c-40fd-ae2c-e60a8529afb5/public_url" target="_blank">
+  <img
+    src="https://images.credly.com/size/220x220/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
+    alt="HashiCorp Certified: Terraform Associate (003)"
+    width="120"
+    height="120"
+  />
+</a>
 <a href="https://certification.scrumalliance.org/accounts/655117-rafael-feitosa/certifications/726786-csm" target="_blank">
   <img
     src="https://rafaelmonteiro.github.io/images/csm-seal.png"
