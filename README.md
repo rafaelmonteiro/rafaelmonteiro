@@ -134,9 +134,17 @@
     height="120"
   />
 </a>
+<a href="https://www.credly.com/badges/cce239f2-625e-4957-8894-2a776eeb98e0/public_url" target="_blank">
+  <img
+    src="https://images.credly.com/size/120x120/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"
+    alt="CKAD: Certified Kubernetes Application Developer"
+    width="120"
+    height="120"
+  />
+</a>
 <a href="https://www.credly.com/badges/711ffc69-3f7c-40fd-ae2c-e60a8529afb5/public_url" target="_blank">
   <img
-    src="https://images.credly.com/size/220x220/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
+    src="https://images.credly.com/size/120x120/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
     alt="HashiCorp Certified: Terraform Associate (003)"
     width="120"
     height="120"
