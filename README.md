@@ -1,26 +1,11 @@
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmonteiro&layout=compact&langs_count=6"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=rafaelmonteiro&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues"
-    />
-  </a>
-</p>
+## Hi there! 👋 Welcome to Rafael Monteiro's profile!
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Software Engineer
 
-### Abstract
+* I'm based in Sydney, Australia
+* See my blog at [rafaelmonteiro.github.io](https://rafaelmonteiro.github.io/)
 
-- Interests: music, cars, sports.
-
-### Programming languages and Tools
+### Skills
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
@@ -160,7 +145,14 @@
 </a>
 
 
-### Find me around the web 
+### Socials
 
-- Connecting and sharing professional updates through <a href="https://www.linkedin.com/in/rafaelfmonteiro">LinkedIn</a>.
-- Following me on <a href="https://twitter.com/rfmsts">Twitter</a>.
+<p align="left"><a href="https://www.linkedin.com/in/rafaelfmonteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rfmsts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## Blog posts
+
+- [How to reduce your PHP tests execution time up to 85%](https://rafaelmonteiro.github.io/development/how-to-reduce-your-php-tests-execution-time-up-to-85-percent)
+- [Web Development Security](https://rafaelmonteiro.github.io/development/web-development-security)
+- [Microservices](https://dev.to/rafaelmonteiro/microservices-1lgf)
+- [Reasons for IT professionals to move abroad](https://rafaelmonteiro.github.io/lifestyle/reasons-for-it-professionals-to-move-abroad)
+- [14 useful tools for network engineers](https://dev.to/rafaelmonteiro/14-useful-tools-for-network-engineers-2d0l)
