@@ -121,7 +121,7 @@
 </a>
 <a href="https://www.credly.com/badges/cce239f2-625e-4957-8894-2a776eeb98e0/public_url" target="_blank">
   <img
-    src="https://images.credly.com/size/120x120/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"
+    src="https://images.credly.com/size/120x120/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob"
     alt="CKAD: Certified Kubernetes Application Developer"
     width="120"
     height="120"
