@@ -129,7 +129,7 @@
 </a>
 <a href="https://www.credly.com/badges/711ffc69-3f7c-40fd-ae2c-e60a8529afb5/public_url" target="_blank">
   <img
-    src="https://images.credly.com/size/120x120/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"
+    src="https://images.credly.com/size/120x120/images/0dc62494-dc94-469a-83af-e35309f27356/blob"
     alt="HashiCorp Certified: Terraform Associate (003)"
     width="120"
     height="120"
